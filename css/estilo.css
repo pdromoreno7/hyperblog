@@ -29,3 +29,12 @@ body {
 #container h1 {
   font-size: 20px;
 }
+footer {
+  width: 100vw;
+  height: max-content;
+  background-color: tomato;
+}
+footer p {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
